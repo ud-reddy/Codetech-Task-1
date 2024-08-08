@@ -89,11 +89,7 @@ The dataset includes the following features for different car models:
 
 This EDA project aims to provide valuable insights into car pricing based on features, helping stakeholders understand the factors that drive MSRP. The findings can be used for further analysis, such as predictive modeling, or to inform business strategies in the automotive industry.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- Dataset source: [Source Name/Website]
-- Thanks to the contributors and community for support and resources.
+- Dataset source: https://www.kaggle.com/datasets/CooperUnion/cardataset
+
